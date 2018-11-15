@@ -3,6 +3,7 @@
 
 int main()
 {
-   printf("test 111111");
+   printf("test");
+   printf("dev");
    return 0;
 }
